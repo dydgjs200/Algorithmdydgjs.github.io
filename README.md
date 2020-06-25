@@ -4,6 +4,7 @@
 1. 사용한 데이터</br>
     x도의 기온일 때, 생산되는 쌀의 생산량(Total_Rice_Output 변수)</br>
     x는 12도 보다 높으며, 25도 보다 낮다는 가정을 한다.
+    
 </br>
 </br>
 </br>
@@ -16,6 +17,7 @@
 </br>
 </br>
 3. 출력 결과물</br>
+
 ![2](https://user-images.githubusercontent.com/25136172/85728922-51b12380-b733-11ea-90ff-4be51b5fbc96.png)
 
 
