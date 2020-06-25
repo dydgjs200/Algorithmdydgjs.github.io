@@ -18,8 +18,13 @@
 </br>
 3. 출력 결과물</br>
 
+1.실행 시 출력물</br>
+
 ![2](https://user-images.githubusercontent.com/25136172/85728922-51b12380-b733-11ea-90ff-4be51b5fbc96.png)
 
+2.유전 알고리즘 사용 시 산점도와 최대적합도
+
+![1](https://user-images.githubusercontent.com/25136172/85728930-52e25080-b733-11ea-9dd2-03995e18dc85.png)
 
 
 
