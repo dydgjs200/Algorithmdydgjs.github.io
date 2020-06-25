@@ -16,7 +16,9 @@
 </br>
 </br>
 3. 출력 결과물</br>
-    
+    ![2](https://user-images.githubusercontent.com/25136172/85728922-51b12380-b733-11ea-90ff-4be51b5fbc96.png)
+
+
 
 
     
