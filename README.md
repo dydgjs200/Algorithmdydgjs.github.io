@@ -1,7 +1,7 @@
 # Genetics Algorithm
 
 
-1. 사용한 데이터
+1. 사용한 데이터</br>
     x도의 기온일 때, 생산되는 쌀의 생산량(Total_Rice_Output 변수)
     x는 12도 보다 높으며, 25도 보다 낮다는 가정을 한다.
 
