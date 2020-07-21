@@ -9,7 +9,7 @@
 </br>
 </br>
 
-2. 데이터의 관계식</br>
+2. 데이터의 관계식(Genetics Algorithm 계산에 필요한 function을 가정한다.)</br>
    Output_Rice_function = 50*x*x + 0.3*x + 100</br>
    쌀의 총 생산량은 기온이 1도씩 올라갈 때 마다,</br>
    기온의 30프로와 100톤의 쌀을 합친 값만큼 증가한다.
@@ -30,5 +30,3 @@
 ![3](https://user-images.githubusercontent.com/25136172/85730188-6b9f3600-b734-11ea-9f04-08559b029a5f.png)
 
 
-
-소스코드는 src 폴더에 동봉시켰습니다.
