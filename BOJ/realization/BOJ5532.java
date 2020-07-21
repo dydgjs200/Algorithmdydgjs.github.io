@@ -12,9 +12,13 @@ public class BOJ5532 {
         int C = scanner.nextInt();
         int D = scanner.nextInt();
 
-        int count1 = A/C;
-        int count2 = B/D;
-        int result = L - (count1 > count2 ? count1+1 : count2+1);   //+1을 해주는 이유는 나머지가 존재하므로
-        System.out.print(result);
+        int count1=A/C;
+        int count2=B/D;
+        if(A%C!=0)  //나머지가 있을 경우 +1
+            count1++;
+        if(B%D!=0)
+            count2++;
+        int result = count1<count2 ?count2:count1;
+        System.out.print(L-result);
     }
 }
