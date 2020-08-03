@@ -6,6 +6,7 @@ import java.util.HashMap;
 
 public class find_string {
 
+    /*문자열을 찾는 알고리즘. 완전탐색으로 구현하였으며 n^2 의 시간이 소모된다. 찾을경우 find!를 출력하며 아닐경우 아무것도 출력하지 않는다*/
 
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
